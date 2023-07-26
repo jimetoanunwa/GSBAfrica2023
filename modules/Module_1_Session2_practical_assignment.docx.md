@@ -1,5 +1,6 @@
 # Genome Sequencing Bioinformatics Module 1 Session 2
 
+  
 **Practical assignment template**
 
 **Module topic: Introduction to the command line**
@@ -8,16 +9,16 @@ __Contact session title: Session 2 command line__
 
 **Trainer: Sumir Panji and Amel Ghouila**
 
-**Participant:** \<*write your name here\*
+**Participant:** \<*write your name here\>*
 
 **Session 2 -- Practical 1 - Sed**
 
-**[Introduction]{.underline}**
+**[Introduction]**
 
 This practical will cover the use of the stream editor (sed) tool that
 is present on most unix operating systems to match and replace patterns.
 
-**[Tools used in this session]{.underline}**
+**[Tools used in this session]**
 
 A unix terminal, unix and sed as on the virtual machine distributed to
 course participants.
@@ -45,7 +46,7 @@ mkdir sed_practical
 
     -   ﻿cp ../practical/Notebooks/awk/genes.gff .
 
-**[Please note]{.underline}**
+**[Please note]**
 
 -   **Hand-in information** please upload your completed assignment to
     the Vula 'Assignments' tab. Take note of the final hand-in date for
@@ -192,15 +193,15 @@ mkdir sed_practical
 
  ﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**[Session 2 -- Practical 2 - AWK]{.underline}**
+**[Session 2 -- Practical 2 - AWK]**
 
-**[Introduction]{.underline}**
+**[Introduction]**
 
 This practical will cover the use of the AWK tool that is present on
 most unix operating systems to filter and work with bioinformatics
 files.
 
-**[Tools used in this session]{.underline}**
+**[Tools used in this session]**
 
 -   In the same directory as course_data/unix make a directory called
     awk and change into this directory. We will copy the relevant files
@@ -246,7 +247,7 @@ files.
 6)  I get differences between 8 to 10 columns which is not correct as a
     general feature format file should have 9 columns that should be
     split by tabs (see the url below for an explanation of a gff file:
-    [[https://www.ensembl.org/info/website/upload/gff.html]{.underline}](https://www.ensembl.org/info/website/upload/gff.html)
+    [[https://www.ensembl.org/info/website/upload/gff.html]](https://www.ensembl.org/info/website/upload/gff.html)
     Let's try again to the get the correct number of fields by splitting
     on the correct delimiter which is tab-seperated:
 
@@ -350,20 +351,20 @@ files.
  ﻿﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **[Session 2 -- Practical 3 -- bash and command line
-tools]{.underline}**
+tools]**
 
-**[Introduction]{.underline}**
+**[Introduction]**
 
 This practical will cover the use of the bash shell and running some of
 the bioinformatics programs installed in the VM that will be used later
 in the course.
 
-**[Tools used in this session]{.underline}**
+**[Tools used in this session]**
 
 A unix terminal, a text editor, files and programs installed on the
 virtual machine distributed to course participants.
 
-**[Please note]{.underline}**
+**[Please note]**
 
  ● **Hand-in information** please upload your completed assignment to
  the Vula assignments tab. Take note of the final hand-in date, which
